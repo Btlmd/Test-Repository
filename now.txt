@@ -1,1 +1,1 @@
-now in branch Newone
+things have been modified simultaneously on branch Newone!
